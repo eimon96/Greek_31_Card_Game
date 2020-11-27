@@ -8,7 +8,7 @@ More info about the rules here:
 
 https://www.pagat.com/banking/31.html
 
-
+-------------------------------------------------------------------------
 
 ![](https://i.imgur.com/FirBty0.png)
 
