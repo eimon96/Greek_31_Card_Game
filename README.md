@@ -1,4 +1,4 @@
-Play the greek thirty-one card game in windows terminal, written in C.
+Play the greek thirty-one card game ("τριανταμία") in windows terminal, written in C.
 
 Dev C++ 5.11 - GCC 4.9.2 - Windows 10
 
